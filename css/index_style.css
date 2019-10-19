@@ -1,0 +1,28 @@
+
+body
+{
+    font-family: 'segoe ui light';
+  
+}
+.book
+{
+    background-color: #EEE;
+   font-weight: bold;
+}
+.bookMark
+{
+    width:75%;
+    font-weight: bold;
+}
+h2
+{
+    font-weight: bold;
+}
+.btn
+{
+    cursor: pointer;
+}
+.display
+{
+    background-color: #EEE; 
+}
